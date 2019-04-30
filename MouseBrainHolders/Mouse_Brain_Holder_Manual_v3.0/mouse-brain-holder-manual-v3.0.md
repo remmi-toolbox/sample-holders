@@ -9,8 +9,8 @@ This MRI compatible 3D printed holder can hold up to 4 mouse brains. Designs are
 
 ##### Table of Contents
 [Parts List](#parts-list)  
-[Holder Printing and Washing](#headers)  
-[Holder Orientation](#headers)  
+[Holder Printing and Washing](#holder-printing-and-washing)  
+[Holder Orientation](#holder-orientation)  
 [O-ring and Hex Nut Placement](#headers)  
 [Air Bubble Trapping](#headers)  
 [Capping](#headers)  
