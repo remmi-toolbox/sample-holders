@@ -7,8 +7,8 @@ Vanderbilt University and Vanderbilt University Institute of Imaging Science (VU
 
 This MRI compatible 3D printed holder can hold up to 4 mouse brains. Designs are available for 20mm, 25mm, 35mm, 38mm, and 40mm coils in SolidWorks (.sldprt) file format. This manual will use pictures of the 4 mouse brain 25mm holder to describe the preparation procedure. The same procedure is used to prepare the other holders.
 
-## Table of Contents
-Parts List..........................................2  
+##### Table of Contents
+[Parts List](#Parts List)..........................................2  
 Holder Printing and Washing...........3  
 Holder Orientation............................4  
 O-ring and Hex Nut Placement........4  
