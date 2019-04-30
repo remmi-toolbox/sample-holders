@@ -19,8 +19,8 @@ This MRI compatible 3D printed holder can hold up to 4 mouse brains. Designs are
 
 ## Parts List
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/MouseBrainHolders/Mouse_Brain_Holder_Manual_v3.0/MB_Holder_Pictures/IMG_2.png" width="150" height="200">
-<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/MouseBrainHolders/Mouse_Brain_Holder_Manual_v3.0/MB_Holder_Pictures/IMG_3.png" width="150" height="200">
-3D printed parts are highlighted in**bold text**throughout the manual. Parts were printed with 3D systems Projet 3500 HDMax at UHD mode with VisiJet M3 Crystal material. Required parts are written in a separate Markdown file for each different type of mouse brain holder. Here we show the required parts for a 4 mouse brain holder for 25mm inner diameter (ID) RF coil:
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/MouseBrainHolders/Mouse_Brain_Holder_Manual_v3.0/MB_Holder_Pictures/IMG_3.png" width="150" height="200">  
+3D printed parts are highlighted in **bold text** throughout the manual. Parts were printed with 3D systems Projet 3500 HDMax at UHD mode with VisiJet M3 Crystal material. Required parts are written in a separate Markdown file for each different type of mouse brain holder. Here we show the required parts for a 4 mouse brain holder for 25mm inner diameter (ID) RF coil:
 
 1. 1x **Holder**
 2. 2x **Cap**
