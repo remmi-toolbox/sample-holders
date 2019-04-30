@@ -1,4 +1,4 @@
-##6 Mouse Brain Holder for 35mm ID RF coil
+## 6 Mouse Brain Holder for 35mm ID RF coil
 
 Parts List:
 
