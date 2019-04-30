@@ -11,11 +11,11 @@ This MRI compatible 3D printed holder can hold up to 4 mouse brains. Designs are
 [Parts List](#parts-list)  
 [Holder Printing and Washing](#holder-printing-and-washing)  
 [Holder Orientation](#holder-orientation)  
-[O-ring and Hex Nut Placement](#headers)  
-[Air Bubble Trapping](#headers)  
-[Capping](#headers)  
-[Holder Preparation](#headers)  
-[Tight Fitting](#headers)  
+[O-ring and Hex Nut Placement](#o-ring-and-hex-nut-placement)  
+[Air Bubble Trapping](#air-bubble-trapping)  
+[Capping](#capping)  
+[Holder Preparation](#holder-preparation)  
+[Tight Fitting](#tight-fitting)  
 
 ## Parts List
 ![mb holder parts 1](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_2.png)
@@ -39,7 +39,7 @@ See Github README files for parts list and where to acquired O-rings, nylon hex 
 ## Holder Printing and Washing
 3D printing should be done in UHD mode on Projet 3500 HDMax or a printer capable of achieving similar resolution (34x34x29 µm) to ensure proper printing of fine features. After printing, parts should be placed in oven at 62°C for minimum of 3 hours to melt off support material. A heated ultrasonic cleaner filled with mineral oil should be used to remove residual support material in fine spaces in the holder. 1 hour in 62°C oil bath is sufficient. Rinse off oil with soap and water thoroughly and let dry for 1 hour.  [A thin bristle set](https://www.mcmaster.com/7396T71) should be used to scrape through small features in the holder, particularly O-ring grooves and screw holes. Place all parts in a glass jar filled with hexane, ensuring that the parts are fully submerged. Leave in hexane for 1 day. Take parts out and use bristles again to scrape through the holder. Leave to dry for 1 hour. Parts should now be ready to use for scanning.
 
-##Holder Orientation
+## Holder Orientation
 ![holder orientation](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_7.png)
 See text on **Holder** to determine the correct orientation. The "FRONT" side goes into the magnet first. The "TOP" side must face the ceiling.
 
