@@ -4,11 +4,18 @@ PI: Dr. Mark D. Does
 Supported by NIH R01EB019980  
 [REMMI Project](https://vuiis.vumc.org/remmi/remmi.php)    
 Vanderbilt University and Vanderbilt University Institute of Imaging Science (VUIIS)**
-![mb holder](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_1.png)
+![mb holder](../Mouse_Brain_Holder_Manual_v3.0/MB_Holder_Pictures/IMG_1.png)
 This MRI compatible 3D printed holder can hold up to 4 mouse brains. Designs are available for 20mm, 25mm, 35mm, 38mm, and 40mm coils in SolidWorks (.sldprt) file format. This manual will use pictures of the 4 mouse brain 25mm holder to describe the preparation procedure. The same procedure is used to prepare the other holders.
 
 ##Table of Contents
-Parts List..........................................2  Holder Printing and Washing...........3  Holder Orientation............................4  O-ring and Hex Nut Placement........4  Air Bubble Trapping..........................5  Capping............................................5  Holder Preparation...........................6  Tight Fitting	......................................8
+Parts List..........................................2  
+Holder Printing and Washing...........3  
+Holder Orientation............................4  
+O-ring and Hex Nut Placement........4  
+Air Bubble Trapping..........................5  
+Capping............................................5  
+Holder Preparation...........................6  
+Tight Fitting	......................................8
 
 1
 
@@ -44,11 +51,13 @@ See text on **Holder** to determine the correct orientation. The "FRONT" side go
 
 ##O-ring and Hex Nut Placement
 ![placement for o-ring and hex nuts](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_8.png)
-Left: Place the O-ring in the “FRONT” and “BACK” groove of the **Holder**. Firmly press down evenly around the ring and remove any kinks. This is important for preventing fluid leakage.  Right: Place the hex nuts in the grooves of the **Holder**. There are 4 hex nut holes on the outer surface of the holder (2 in front, 2 in back). Place the hex nuts in so that the flat edge of the nut faces the outward. There are 2 hex nut holes in the interior of the holder (1 in each end). Place the hex nut in appropriately and **seal these holes with a layer of silicone.**
+Left: Place the O-ring in the “FRONT” and “BACK” groove of the **Holder**. Firmly press down evenly around the ring and remove any kinks. This is important for preventing fluid leakage.  
+Right: Place the hex nuts in the grooves of the **Holder**. There are 4 hex nut holes on the outer surface of the holder (2 in front, 2 in back). Place the hex nuts in so that the flat edge of the nut faces the outward. There are 2 hex nut holes in the interior of the holder (1 in each end). Place the hex nut in appropriately and **seal these holes with a layer of silicone.**
 
 4
 
-##Air Bubble Trapping![how to trap air bubbles](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_9.png)
+##Air Bubble Trapping
+![how to trap air bubbles](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_9.png)
 Undesirable air bubbles within the **Holder** can be trapped away from mouse brains by rotating the holder 360°. Start with the “BACK” end facing the ceiling, then rotate to the “BOTTOM” facing up, then “FRONT” end, then “TOP” facing the ceiling.
 
 ##Capping
@@ -58,10 +67,12 @@ While screwing in the cap, apply some downward pressure on the cap with your thu
 5
 
 ##Holder Preparation
-Start with capping the "FRONT" end of the holder.  Brains should insert such that the frontal lobe of the brain inserts first. The top of the brain should be facing the “top” of the holder. Insert brains from the “back” end, and push toward the “front” end. The interior of the holder has 4 shaped grooves that help to align the brains parallel to the length of the holder.
+Start with capping the "FRONT" end of the holder.  
+Brains should insert such that the frontal lobe of the brain inserts first. The top of the brain should be facing the “top” of the holder. Insert brains from the “back” end, and push toward the “front” end. The interior of the holder has 4 shaped grooves that help to align the brains parallel to the length of the holder.
 ![inserting brains 1](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_11.png)  
 Start by inserting two brains at the “BOTTOM” of the holder. Use a long q-tip to help guide the brains down. You may need to rotate the brains a little initially to get them into the holder.
-![inserting brains 2](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_12.png)  Insert the remaining two brains at the “top” of the holder, again using a long q-tip to guide the brains down. Ensure the four brains are all aligned parallel along the length of the holder.
+![inserting brains 2](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_12.png)  
+Insert the remaining two brains at the “top” of the holder, again using a long q-tip to guide the brains down. Ensure the four brains are all aligned parallel along the length of the holder.
 ![inserting brains 3](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_13.png)
 
 6
