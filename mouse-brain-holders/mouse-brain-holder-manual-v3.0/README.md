@@ -34,7 +34,7 @@ A long Q-tip is recommended for pushing mouse brains in and out of the holder. 1
 
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-6.png" width="200" height="150">
 Misc. Parts from McMaster-Carr:  
-See Github README files for parts list and where to acquired O-rings, nylon hex nuts, and nylon screws.
+See Github README files for parts list and where to acquire O-rings, nylon hex nuts, and nylon screws.
 
 ## Holder Printing and Washing
 3D printing should be done in UHD mode on Projet 3500 HDMax or a printer capable of achieving similar resolution (34x34x29 µm) to ensure proper printing of fine features. After printing, parts should be placed in oven at 62°C for minimum of 3 hours to melt off support material. A heated ultrasonic cleaner filled with mineral oil should be used to remove residual support material in fine spaces in the holder. 1 hour in 62°C oil bath is sufficient. Rinse off oil with soap and water thoroughly and let dry for 1 hour.  [A thin bristle set](https://www.mcmaster.com/7396T71) should be used to scrape through small features in the holder, particularly O-ring grooves and screw holes. Place all parts in a glass jar filled with hexane, ensuring that the parts are fully submerged. Leave in hexane for 1 day. Take parts out and use bristles again to scrape through the holder. Leave to dry for 1 hour. Parts should now be ready to use for scanning.
@@ -62,7 +62,7 @@ While screwing in the cap, apply some downward pressure on the cap with your thu
 
 ## Holder Preparation
 Start with capping the "FRONT" end of the holder.  
-Brains should insert such that the frontal lobe of the brain inserts first. The top of the brain should be facing the “top” of the holder. Insert brains from the “back” end, and push toward the “front” end. The interior of the holder has 4 shaped grooves that help to align the brains parallel to the length of the holder.
+Brains should insert such that the frontal lobe of the brain inserts first. The top of the brain should be facing the “TOP” of the holder. Insert brains from the “BACK” end, and push toward the “FRONT” end. The interior of the holder has 4 shaped grooves that help to align the brains parallel to the length of the holder.
 
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-11.png" width="190" height="160">
 
