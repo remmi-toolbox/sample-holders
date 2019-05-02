@@ -51,7 +51,7 @@ Left: Place the O-ring in the “FRONT” and “BACK” groove of the **Holder*
 Right: Place the hex nuts in the grooves of the **Holder**. There are 4 hex nut holes on the outer surface of the holder (2 in front, 2 in back). Place the hex nuts in so that the flat edge of the nut faces the outward. There are 2 hex nut holes in the interior of the holder (1 in each end). Place the hex nut in appropriately and **seal these holes with a layer of silicone.**
 
 ## Air Bubble Trapping
-<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-9.png" width="300" height="150">
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-9.png" width="600" height="300">
 
 Undesirable air bubbles within the **Holder** can be trapped away from mouse brains by rotating the holder 360°. Start with the “BACK” end facing the ceiling, then rotate to the “BOTTOM” facing up, then “FRONT” end, then “TOP” facing the ceiling.
 
