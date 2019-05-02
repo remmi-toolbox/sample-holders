@@ -7,7 +7,7 @@ Vanderbilt University and Vanderbilt University Institute of Imaging Science (VU
 
 This MRI compatible 3D printed holder can hold up to 4 mouse brains. Designs are available for 20mm, 25mm, 35mm, 38mm, and 40mm coils in SolidWorks (.sldprt) file format. This manual will use pictures of the 4 mouse brain 25mm holder to describe the preparation procedure. The same procedure is used to prepare the other holders.
 
-##### Table of Contents
+## Table of Contents
 [Parts List](#parts-list)  
 [Holder Printing and Washing](#holder-printing-and-washing)  
 [Holder Orientation](#holder-orientation)  
@@ -41,37 +41,40 @@ See Github README files for parts list and where to acquired O-rings, nylon hex 
 
 ## Holder Orientation
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-7.png" width="250" height="150">
+
 See text on **Holder** to determine the correct orientation. The "FRONT" side goes into the magnet first. The "TOP" side must face the ceiling.
 
 ## O-ring and Hex Nut Placement
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-8.png" width="300" height="150">
+
 Left: Place the O-ring in the “FRONT” and “BACK” groove of the **Holder**. Firmly press down evenly around the ring and remove any kinks. This is important for preventing fluid leakage.  
 Right: Place the hex nuts in the grooves of the **Holder**. There are 4 hex nut holes on the outer surface of the holder (2 in front, 2 in back). Place the hex nuts in so that the flat edge of the nut faces the outward. There are 2 hex nut holes in the interior of the holder (1 in each end). Place the hex nut in appropriately and **seal these holes with a layer of silicone.**
 
 ## Air Bubble Trapping
-![how to trap air bubbles](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_9.png)
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-9.png" width="300" height="150">
+
 Undesirable air bubbles within the **Holder** can be trapped away from mouse brains by rotating the holder 360°. Start with the “BACK” end facing the ceiling, then rotate to the “BOTTOM” facing up, then “FRONT” end, then “TOP” facing the ceiling.
 
 ## Capping
 While screwing in the cap, apply some downward pressure on the cap with your thumb to ensure proper O-ring sealing between the cap and the holder surfaces.
-![how to cap holder](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_10.png)
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-10.png" width="200" height="200">
 
 ## Holder Preparation
 Start with capping the "FRONT" end of the holder.  
 Brains should insert such that the frontal lobe of the brain inserts first. The top of the brain should be facing the “top” of the holder. Insert brains from the “back” end, and push toward the “front” end. The interior of the holder has 4 shaped grooves that help to align the brains parallel to the length of the holder.
-![inserting brains 1](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_11.png)  
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-11.png" width="190" height="160">
 Start by inserting two brains at the “BOTTOM” of the holder. Use a long q-tip to help guide the brains down. You may need to rotate the brains a little initially to get them into the holder.
-![inserting brains 2](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_12.png)  
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-12.png" width="190" height="180">
 Insert the remaining two brains at the “top” of the holder, again using a long q-tip to guide the brains down. Ensure the four brains are all aligned parallel along the length of the holder.
-![inserting brains 3](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_13.png)
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-13.png" width="190" height="205">
 
 Insert **Separator** in the middle groove all the way until it cannot be pushed further. For all designs, the **Separator** serves to separate adjacent rows of compartments.
-![inserting separator](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_14.png)  
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-14.png" width="190" height="215">  
 Insert **Sled** in the T-shaped grooves and the trapezoidal grooves in the middle sled. For some designs, the **Sled** is a flat piece kind of like the separator, but all sleds serve to keep the brains situated in the middle of the holder. Use the grooves as guides to move the sled down until it is flush up against the mouse brain. Pipette imaging solution of choice (i.e. Fomblin) until the holder is completely filled with the solution.
-![inserting sleds](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_15.png)  
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-15.png" width="190" height="200"> 
 Screw on cap on the “BACK” end, again applying downward pressure on the cap while screwing. If the holder leaks at this point, silicone may be applied at the interface between the cap and holder.
-![capping](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_16.png)
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-16.png" width="190" height="210">
 
 ## Tight Fitting
 This design features additional O-ring grooves on the outer surface that can help facilitate tighter fitting within the RF coil. The exact dimensions of the O-ring will vary depending on RF coil diameter and dimensional tolerances. Alternatively, a few wounds of tape can be used instead to fill any gaps between the holder and RF coil.
-![tight fitting](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_17.png)
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-17.png" width="150" height="190">
