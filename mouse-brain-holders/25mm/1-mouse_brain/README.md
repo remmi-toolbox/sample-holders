@@ -5,7 +5,9 @@ Parts List:
 * [2x O-rings](https://www.mcmaster.com/9262k194) (21.5mm ID, 23.5mm OD)
 * [4x Nylon Screws](https://www.mcmaster.com/92492a705) (M2 x 0.4mm thread)
 * [4x Nylon Hex Nuts](https://www.mcmaster.com/93800a300) (M2 x 0.4mm thread)
-
+* 2x cap\-20mm\-1mb
+* 1x holder\-20mm\-1mb
+* 1x sled\-20mm\-1mb
 
 Optional:
 
