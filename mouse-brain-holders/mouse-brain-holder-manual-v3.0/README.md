@@ -63,6 +63,7 @@ While screwing in the cap, apply some downward pressure on the cap with your thu
 ## Holder Preparation
 Start with capping the "FRONT" end of the holder.  
 Brains should insert such that the frontal lobe of the brain inserts first. The top of the brain should be facing the “top” of the holder. Insert brains from the “back” end, and push toward the “front” end. The interior of the holder has 4 shaped grooves that help to align the brains parallel to the length of the holder.
+
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-11.png" width="190" height="160">
 
 Start by inserting two brains at the “BOTTOM” of the holder. Use a long q-tip to help guide the brains down. You may need to rotate the brains a little initially to get them into the holder.
@@ -87,4 +88,5 @@ Screw on cap on the “BACK” end, again applying downward pressure on the cap 
 
 ## Tight Fitting
 This design features additional O-ring grooves on the outer surface that can help facilitate tighter fitting within the RF coil. The exact dimensions of the O-ring will vary depending on RF coil diameter and dimensional tolerances. Alternatively, a few wounds of tape can be used instead to fill any gaps between the holder and RF coil.
+
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-17.png" width="150" height="190">
