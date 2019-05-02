@@ -1,5 +1,5 @@
 ﻿# About 3D_Print
-This contains 3D print files for various sizes of mouse brain holders. Additional files for other types of tissue and phantom holders may be added in the near future. Designs were created by Dong Kyu Kim (dong.kyu.kim@vanderbilt.edu). Work is supported by NIH R01EB019980.
+This contains 3D print files for various sizes of mouse brain holders. Additional files for other types of tissue and phantom holders may be added in the near future. Designs were created by Dong Kyu Kim (dong.kyu.kim@vanderbilt.edu) and Mark Does (mark.does@vanderbilt.edu). Work is supported by NIH R01EB019980.
 
 # File Organization
 
