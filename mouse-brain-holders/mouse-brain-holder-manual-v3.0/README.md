@@ -27,12 +27,12 @@ This MRI compatible 3D printed holder can hold up to 4 mouse brains. Designs are
 2. 2x **Cap**
 3. 4x **Sled**
 4. 1x **Separator**
-![additional materials 1](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_4.png)
-![additional materials 2](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_5.png)
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-4.png" width="225" height="150">
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-5.png" width="225" height="150">
 
 A long Q-tip is recommended for pushing mouse brains in and out of the holder. 100% silicone is required for sealing certain features of the holder where potential leakage may occur.
 
-![misc parts from mcmaster-carr](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_6.png)
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-6.png" width="200" height="150">
 Misc. Parts from McMaster-Carr:  
 See Github README files for parts list and where to acquired O-rings, nylon hex nuts, and nylon screws.
 
@@ -40,11 +40,11 @@ See Github README files for parts list and where to acquired O-rings, nylon hex 
 3D printing should be done in UHD mode on Projet 3500 HDMax or a printer capable of achieving similar resolution (34x34x29 µm) to ensure proper printing of fine features. After printing, parts should be placed in oven at 62°C for minimum of 3 hours to melt off support material. A heated ultrasonic cleaner filled with mineral oil should be used to remove residual support material in fine spaces in the holder. 1 hour in 62°C oil bath is sufficient. Rinse off oil with soap and water thoroughly and let dry for 1 hour.  [A thin bristle set](https://www.mcmaster.com/7396T71) should be used to scrape through small features in the holder, particularly O-ring grooves and screw holes. Place all parts in a glass jar filled with hexane, ensuring that the parts are fully submerged. Leave in hexane for 1 day. Take parts out and use bristles again to scrape through the holder. Leave to dry for 1 hour. Parts should now be ready to use for scanning.
 
 ## Holder Orientation
-![holder orientation](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_7.png)
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-7.png" width="250" height="150">
 See text on **Holder** to determine the correct orientation. The "FRONT" side goes into the magnet first. The "TOP" side must face the ceiling.
 
 ## O-ring and Hex Nut Placement
-![placement for o-ring and hex nuts](../Mouse Brain Holder Manual v3.0/MB Holder Pictures/IMG_8.png)
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-8.png" width="300" height="150">
 Left: Place the O-ring in the “FRONT” and “BACK” groove of the **Holder**. Firmly press down evenly around the ring and remove any kinks. This is important for preventing fluid leakage.  
 Right: Place the hex nuts in the grooves of the **Holder**. There are 4 hex nut holes on the outer surface of the holder (2 in front, 2 in back). Place the hex nuts in so that the flat edge of the nut faces the outward. There are 2 hex nut holes in the interior of the holder (1 in each end). Place the hex nut in appropriately and **seal these holes with a layer of silicone.**
 
