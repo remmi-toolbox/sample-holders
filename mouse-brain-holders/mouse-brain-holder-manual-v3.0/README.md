@@ -57,22 +57,32 @@ Undesirable air bubbles within the **Holder** can be trapped away from mouse bra
 
 ## Capping
 While screwing in the cap, apply some downward pressure on the cap with your thumb to ensure proper O-ring sealing between the cap and the holder surfaces.
+
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-10.png" width="200" height="200">
 
 ## Holder Preparation
 Start with capping the "FRONT" end of the holder.  
 Brains should insert such that the frontal lobe of the brain inserts first. The top of the brain should be facing the “top” of the holder. Insert brains from the “back” end, and push toward the “front” end. The interior of the holder has 4 shaped grooves that help to align the brains parallel to the length of the holder.
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-11.png" width="190" height="160">
+
 Start by inserting two brains at the “BOTTOM” of the holder. Use a long q-tip to help guide the brains down. You may need to rotate the brains a little initially to get them into the holder.
+
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-12.png" width="190" height="180">
+
 Insert the remaining two brains at the “top” of the holder, again using a long q-tip to guide the brains down. Ensure the four brains are all aligned parallel along the length of the holder.
+
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-13.png" width="190" height="205">
 
 Insert **Separator** in the middle groove all the way until it cannot be pushed further. For all designs, the **Separator** serves to separate adjacent rows of compartments.
+
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-14.png" width="190" height="215">  
+
 Insert **Sled** in the T-shaped grooves and the trapezoidal grooves in the middle sled. For some designs, the **Sled** is a flat piece kind of like the separator, but all sleds serve to keep the brains situated in the middle of the holder. Use the grooves as guides to move the sled down until it is flush up against the mouse brain. Pipette imaging solution of choice (i.e. Fomblin) until the holder is completely filled with the solution.
-<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-15.png" width="190" height="200"> 
+
+<img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-15.png" width="190" height="200">
+
 Screw on cap on the “BACK” end, again applying downward pressure on the cap while screwing. If the holder leaks at this point, silicone may be applied at the interface between the cap and holder.
+
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-16.png" width="190" height="210">
 
 ## Tight Fitting
