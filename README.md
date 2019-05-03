@@ -6,6 +6,7 @@ This contains 3D print files for various sizes of mouse brain holders. Additiona
 3D print files are organized in the following manner: Type of holder (i.e. mouse brain holder)/ Outer diameter of holder (i.e. 25mm)/ Maximum number of samples that can be held within the holder (i.e. 4-mouse-brain)/ sldprt (SolidWorks Part) and stl (stereolithography) files
 
 Alternatively, if you know what type of holder you are looking for you can use this table below:
+
 |-      |1-mouse-brain   |4-mouse-brain   |6-mouse-brain   |
 |:---|---|---|---|
 |20mm   |20mm-1mb        |-               |-               |
