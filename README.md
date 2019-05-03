@@ -5,6 +5,15 @@ This contains 3D print files for various sizes of mouse brain holders. Additiona
 
 3D print files are organized in the following manner: Type of holder (i.e. mouse brain holder)/ Outer diameter of holder (i.e. 25mm)/ Maximum number of samples that can be held within the holder (i.e. 4-mouse-brain)/ sldprt (SolidWorks Part) and stl (stereolithography) files
 
+Alternatively, if you know what type of holder you are looking for you can use this table below:
+|       |1-mouse-brain   |4-mouse-brain   |6-mouse-brain   |
+|-------|----------------|----------------|----------------|
+|20mm   |20mm-1mb        |                |                |
+|25mm   |25mm-1mb        |25mm-4mb        |                |
+|35mm   |35mm-1mb        |35mm-4mb        |35mm-6mb        |
+|38mm   |38mm-1mb        |38mm-4mb        |38mm-6mb        |
+|40mm   |40mm-1mb        |40mm-4mb        |40mm-6mb        |
+
 # Usage
 
 3D print designs (.sldprt) can be edited with SolidWorks 2017 and above. The .stl files can be used to directly print each design on an appropriate 3D printer. Recommended 3D print resolution is 29 micron layers (750x750x890 DPI (xyz)). These designs have been tested with a ProJet 3500 HDMax printing in Ultra High Definition (UHD) mode. This level of resolution may be necessary to accurately print small internal features.
