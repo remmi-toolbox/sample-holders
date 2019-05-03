@@ -9,11 +9,11 @@ Alternatively, if you know what type of holder you are looking for you can use t
 
 |      |1-mouse-brain   |4-mouse-brain   |6-mouse-brain   |
 |:---|---|---|---|
-|20mm   |20mm-1mb        |-               |-               |
-|25mm   |25mm-1mb        |25mm-4mb        |-               |
-|35mm   |35mm-1mb        |35mm-4mb        |35mm-6mb        |
-|38mm   |38mm-1mb        |38mm-4mb        |38mm-6mb        |
-|40mm   |40mm-1mb        |40mm-4mb        |40mm-6mb        |
+|**20mm**   |20mm-1mb        |               |               |
+|**25mm**   |25mm-1mb        |25mm-4mb        |               |
+|**35mm**   |35mm-1mb        |35mm-4mb        |35mm-6mb        |
+|**38mm**   |38mm-1mb        |38mm-4mb        |38mm-6mb        |
+|**40mm**   |40mm-1mb        |40mm-4mb        |40mm-6mb        |
 
 # Usage
 
