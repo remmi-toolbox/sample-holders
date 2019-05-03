@@ -11,9 +11,9 @@ Alternatively, if you know what type of holder you are looking for, use the tabl
 |:---|---|---|---|
 |**20mm**   |[20mm-1mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/20mm/1-mouse-brain)      |               |               |
 |**25mm**   |[25mm-1mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/25mm/1-mouse-brain)        |[25mm-4mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/25mm/4-mouse-brain)        |               |
-|**35mm**   |35mm-1mb        |35mm-4mb        |35mm-6mb        |
-|**38mm**   |38mm-1mb        |38mm-4mb        |38mm-6mb        |
-|**40mm**   |40mm-1mb        |40mm-4mb        |40mm-6mb        |
+|**35mm**   |[35mm-1mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/35mm/1-mouse-brain)        |[35mm-4mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/35mm/4-mouse-brain)        |[35mm-6mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/35mm/6-mouse-brain)        |
+|**38mm**   |[38mm-1mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/38mm/1-mouse-brain)        |[38mm-4mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/38mm/4-mouse-brain)        |[38mm-6mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/38mm/6-mouse-brain)        |
+|**40mm**   |[40mm-1mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/40mm/1-mouse-brain)        |[40mm-4mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/40mm/4-mouse-brain)        |[40mm-6mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/40mm/6-mouse-brain)        |
 
 # Usage
 
