@@ -7,7 +7,7 @@ This contains 3D print files for various sizes of mouse brain holders. Additiona
 
 Alternatively, if you know what type of holder you are looking for you can use this table below:
 |-      |1-mouse-brain   |4-mouse-brain   |6-mouse-brain   |
-|-------|----------------|----------------|----------------|
+|:---|---|---|---|
 |20mm   |20mm-1mb        |-               |-               |
 |25mm   |25mm-1mb        |25mm-4mb        |-               |
 |35mm   |35mm-1mb        |35mm-4mb        |35mm-6mb        |
