@@ -70,7 +70,7 @@ Start by inserting two brains at the “BOTTOM” of the holder. Use a long q-ti
 
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-12.png" width="190" height="180">
 
-Insert the remaining two brains at the “top” of the holder, again using a long q-tip to guide the brains down. Ensure the four brains are all aligned parallel along the length of the holder.
+Insert the remaining two brains at the “TOP” of the holder, again using a long q-tip to guide the brains down. Ensure the four brains are all aligned parallel along the length of the holder.
 
 <img src="https://github.com/remmi-toolbox/3D_Print/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-13.png" width="190" height="205">
 
