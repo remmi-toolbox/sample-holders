@@ -10,16 +10,16 @@ Alternatively, if you know what type of holder you are looking for, use the tabl
 |      |1-mouse-brain   |4-mouse-brain   |6-mouse-brain   |
 |:---|---|---|---|
 |**20mm**   |[20mm-1mb](/../../tree/master/mouse-brain-holders/20mm/1-mouse-brain)      |               |               |
-|**25mm**   |[25mm-1mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/25mm/1-mouse-brain)        |[25mm-4mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/25mm/4-mouse-brain)        |               |
-|**35mm**   |[35mm-1mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/35mm/1-mouse-brain)        |[35mm-4mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/35mm/4-mouse-brain)        |[35mm-6mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/35mm/6-mouse-brain)        |
-|**38mm**   |[38mm-1mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/38mm/1-mouse-brain)        |[38mm-4mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/38mm/4-mouse-brain)        |[38mm-6mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/38mm/6-mouse-brain)        |
-|**40mm**   |[40mm-1mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/40mm/1-mouse-brain)        |[40mm-4mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/40mm/4-mouse-brain)        |[40mm-6mb](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/40mm/6-mouse-brain)        |
+|**25mm**   |[25mm-1mb](/../../tree/master/mouse-brain-holders/25mm/1-mouse-brain)        |[25mm-4mb](/../../tree/master/mouse-brain-holders/25mm/4-mouse-brain)        |               |
+|**35mm**   |[35mm-1mb](/../../tree/master/mouse-brain-holders/35mm/1-mouse-brain)        |[35mm-4mb](/../../tree/master/mouse-brain-holders/35mm/4-mouse-brain)        |[35mm-6mb](/../../tree/master/mouse-brain-holders/35mm/6-mouse-brain)        |
+|**38mm**   |[38mm-1mb](/../../tree/master/mouse-brain-holders/38mm/1-mouse-brain)        |[38mm-4mb](/../../tree/master/mouse-brain-holders/38mm/4-mouse-brain)        |[38mm-6mb](/../../tree/master/mouse-brain-holders/38mm/6-mouse-brain)        |
+|**40mm**   |[40mm-1mb](/../../tree/master/mouse-brain-holders/40mm/1-mouse-brain)        |[40mm-4mb](/../../tree/master/mouse-brain-holders/40mm/4-mouse-brain)        |[40mm-6mb](/../../tree/master/mouse-brain-holders/40mm/6-mouse-brain)        |
 
 # Usage
 
 3D print designs (.sldprt) can be edited with SolidWorks 2017 and above. The .stl files can be used to directly print each design on an appropriate 3D printer. Recommended 3D print resolution is 29 micron layers (750x750x890 DPI (xyz)). These designs have been tested with a ProJet 3500 HDMax printing in Ultra High Definition (UHD) mode. This level of resolution may be necessary to accurately print small internal features.
 
-Navigate to the desired holder (i.e. 3D_Print/mouse-brain-holders/25mm/1-mouse-brain) and view the README for a list of parts to print. Additional parts like O-rings and nylon screws may need to be purchased separately. Links to these parts are on the README. The 3D prints are designed to be compatible with these additional parts.
+Navigate to the desired holder (i.e. mouse-brain-holders/25mm/1-mouse-brain) and view the README for a list of parts to print. Additional parts like O-rings and nylon screws may need to be purchased separately. Links to these parts are on the README. The 3D prints are designed to be compatible with these additional parts.
 
-View the appropriate [**README manual**](https://github.com/remmi-toolbox/3D_Print/tree/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0) (i.e. 3D_Print/mouse-brain-holders/mouse-brain-holder-manual/README) for information on holder assembly and usage.
+View the appropriate [**README manual**](/../../tree/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0) (i.e. mouse-brain-holders/mouse-brain-holder-manual/README) for information on holder assembly and usage.
 
