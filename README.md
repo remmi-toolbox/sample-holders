@@ -1,6 +1,8 @@
 # About sample-holders
 This contains 3D print files for mouse brain holders of various sizes. Additional files for other types of tissue and phantom holders may be added in the near future. Designs were created by Dong Kyu Kim (dong.kyu.kim@vanderbilt.edu) and Mark Does (mark.does@vanderbilt.edu). Work is supported by NIH R01EB019980.
 
+<img src="https://github.com/remmi-toolbox/sample-holders/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/holder-details.png" width="400" height="300">
+
 # File Organization
 
 3D print files are organized in the following manner: Type of holder (i.e. mouse brain holder)/ Outer diameter of holder (i.e. 25mm)/ Maximum number of samples that can be held within the holder (i.e. 4-mouse-brain)/ sldprt (SolidWorks Part) and stl (stereolithography) files
