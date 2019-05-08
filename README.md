@@ -3,6 +3,8 @@ This contains 3D print files for mouse brain holders of various sizes. Additiona
 
 <img src="https://github.com/remmi-toolbox/sample-holders/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/holder-details.png" width="1128" height="700">
 
+<img src="https://github.com/remmi-toolbox/sample-holders/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-14.png">
+
 # File Organization
 
 3D print files are organized in the following manner: Type of holder (i.e. mouse brain holder)/ Outer diameter of holder (i.e. 25mm)/ Maximum number of samples that can be held within the holder (i.e. 4-mouse-brain)/ sldprt (SolidWorks Part) and stl (stereolithography) files
