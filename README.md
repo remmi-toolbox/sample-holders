@@ -1,9 +1,9 @@
 # About sample-holders
 This contains 3D print files for mouse brain holders of various sizes. Additional files for other types of tissue and phantom holders may be added in the near future. Designs were created by Dong Kyu Kim (dong.kyu.kim@vanderbilt.edu) and Mark Does (mark.does@vanderbilt.edu). Work is supported by NIH R01EB019980.
 
-<img src="https://github.com/remmi-toolbox/sample-holders/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/holder-details.png" width="1128" height="700">
-
 <img src="https://github.com/remmi-toolbox/sample-holders/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/mb-holder-pictures/img-14.png">
+
+<img src="https://github.com/remmi-toolbox/sample-holders/blob/master/mouse-brain-holders/mouse-brain-holder-manual-v3.0/holder-details.png" width="1128" height="700">
 
 # File Organization
 
